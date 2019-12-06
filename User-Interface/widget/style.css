@@ -1,0 +1,38 @@
+body {
+    background-color:pink;
+    margin: 50px;
+  }
+  
+  .container {
+    margin: 30px auto;
+    max-width: 100px;
+  }
+  
+  form {
+    background-color: purple;
+    padding: 20px;
+    color: white;
+  }
+  
+  label {
+    display: block;
+  }
+  
+  input {
+    width: 100%;
+    margin-bottom: 10px;
+    border-radius: 5px;
+  }
+  
+  button {
+    width: 100%;
+    padding: 10px;
+    border-radius: 5px;
+    background-color: red;
+    cursor: pointer;
+  }
+  
+  button:hover {
+    background-color: violet;
+  }
+  
