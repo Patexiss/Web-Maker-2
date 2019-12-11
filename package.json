@@ -1,0 +1,24 @@
+{
+  "name": "webmaker",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Patexiss/Web-Maker-2.git"
+  },
+  "author": "PATEXISS",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Patexiss/Web-Maker-2/issues"
+  },
+  "homepage": "https://github.com/Patexiss/Web-Maker-2#readme",
+  "dependencies": {
+    "config": "^3.2.4",
+    "express": "^4.17.1",
+    "mongoose": "^5.8.0"
+  }
+}
